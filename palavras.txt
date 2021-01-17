@@ -1,0 +1,10 @@
+banana
+melancia
+morango
+abacaxi
+maça
+uva
+melão
+tangerina
+manga
+laranja
